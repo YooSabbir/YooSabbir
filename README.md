@@ -80,12 +80,8 @@ I am actively learning and building projects to strengthen my skills and am **op
 ---
 
 ## 📊 GitHub Stats & Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YooSabbir&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YooSabbir&theme=tokyonight" />
+<p align="cener">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </p>
 
 ---
