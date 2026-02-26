@@ -1,38 +1,24 @@
-<!-- BANNER -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Hey%20There%20👋%20I'm%20Sabbir&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=230&section=header&text=Junior%20Front-End%20Developer&fontSize=42&fontColor=ffffff" />
 </p>
 
+<!-- ===================== INTRO + PHOTO ===================== -->
 <table>
   <tr>
     <td width="35%" align="center">
       <img 
-        src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" 
+        src="https://avatars.githubusercontent.com/YooSabbir" 
         width="230" 
         style="border-radius: 50%;" 
-        alt="Profile Picture"
+        alt="Arafat Hossen Sabbir"
       />
     </td>
-
     <td width="65%">
-      <h2>Hi 👋, I'm Sabbir (YooSabbir)</h2>
+      <h2>Hi 👋, I'm Arafat Hossen Sabbir</h2>
       <p>
-        🌱 Learning Web Development <br/>
-        💻 JavaScript | React | Tailwind CSS <br/>
-        🚀 Building cool projects <br/>
-        📚 Preparing for goals
-      </p>
-
-      <p>
-        📍 Bangladesh <br/>
-        ✉️ Email: your-email@example.com
-      </p>
-
-      <p>
-        🌐 Connect:
-        <a href="https://github.com/YooSabbir">GitHub</a> |
-        <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
-        <a href="https://your-portfolio.vercel.app">Portfolio</a>
+        <b>Junior Front-End Developer</b> | HTML, CSS, JavaScript <br/>
+        Learning React | Building clean & responsive web interfaces
       </p>
     </td>
   </tr>
@@ -40,14 +26,60 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
-</p>
+## 🚀 About Me
+I am a **front-end focused web developer** currently expanding my expertise into **full-stack (MERN) development**.
+
+I build **clean, responsive, and user-centered web interfaces** using modern web technologies.  
+Rather than relying on copy-paste solutions, I focus on **understanding core concepts** like layout systems, responsiveness, and application logic — which helps me write **maintainable and scalable code**.
+
+I am actively learning and building projects to strengthen my skills and am **open to internships, junior roles, and collaborative opportunities**.
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Current Work
+🔭 **Junior Front-End Developer (Self-Learning)**  
+📍 Programming Hero — *January 2026 – Present*
+
+- Building responsive web pages using **HTML, CSS, and JavaScript**
+- Practicing **DOM manipulation** and event handling
+- Converting UI ideas into functional layouts
+- Improving code quality, readability, and structure
+- Using **Git & GitHub** for version control
+
+---
+
+## 📚 Learning & Knowledge
+🌱 Currently learning and practicing:
+- **React.js**
+- **Node.js & Express.js**
+- **MongoDB**
+- **REST APIs**
+
+---
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|------------|------|----------|
+| Government Mujib College | Higher Secondary Education (Science) | 2023 – 2025 |
+| Chaprashir Hat High School | SSC (Science) | 2021 – 2023 |
+
+---
+
+## 🛠️ Skills & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,react,nodejs,mongodb" />
+</p>
+
+**Core Skills**
+- HTML5 (Semantic Markup)
+- CSS3, Tailwind CSS, Flexbox, Grid
+- JavaScript (ES6+, DOM Manipulation)
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats & Activity
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YooSabbir&show_icons=true&theme=tokyonight" />
 </p>
@@ -55,3 +87,22 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YooSabbir&theme=tokyonight" />
 </p>
+
+---
+
+## 📞 Contact & Location
+📫 **Email:** ahsabbir128@gmail.com  
+📍 **Location:** Dhaka, Bangladesh  
+
+🌐 **Connect with me:**  
+[GitHub](https://github.com/YooSabbir) • 
+[LinkedIn](https://www.linkedin.com/in/arafat-hossen-sabbir)
+
+---
+
+### 🎯 Quote
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
+
+⭐ Thank you for visiting my profile! 😊
