@@ -35,28 +35,36 @@
   <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
----
+--- 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+##  About Me
+
+I am a dedicated Full Stack Developer specializing in the MERN stack, with a passion for building clean, scalable, and user-centric web applications. Since starting my journey in 2020, I have evolved from mastering HTML/CSS to developing complex applications using React, Redux, Node.js, and MongoDB.
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|------------|-------|----------|
+| Government Mujib College | Higher Secondary Education (Science) | 2023 – 2025 |
+| Chaprashir Hat High School | SSC (Science) | 2021 – 2023 |
+
+
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="45" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="45" />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="45" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" />
 </p>
 
 
