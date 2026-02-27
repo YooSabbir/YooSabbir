@@ -88,8 +88,19 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 
 <div align="center">
   
-> **"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
+> **"Helping people with my real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
 
 </div>
 <br>
+<div align="center"> 
+  <a href="mailto:arafathossensabbirofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/arafat-hossen-sabbir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://yoosabbir.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
