@@ -91,3 +91,12 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 > **"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
 
 </div>
+
+<br>
+<div align="center">
+
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
