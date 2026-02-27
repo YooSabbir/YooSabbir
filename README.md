@@ -10,6 +10,9 @@
     </tr>
   </table>
 </div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=dark&width=500&height=30&duration=4500&lines=I'm+Arafat+Hossen+Sabbir!;" />
+</h1>
 
 <h3 align="center">Junior Front-End Developer | HTML, CSS, JavaScript <br> Learning React | Building Clean & Responsive Web Interfaces</h3>
 
@@ -75,8 +78,11 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 
 <h2 align="center">🔥 GitHub Contribution Streak:</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yoosabbir&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <a align="right" href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </a>
+  <a align="left" href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </a>
 </p>
 
