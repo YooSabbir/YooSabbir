@@ -1,104 +1,91 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=230&section=header&text=Junior%20Front-End%20Developer&fontSize=42&fontColor=ffffff" />
-</p>
 
 <!-- ===================== INTRO + PHOTO ===================== -->
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img 
-        src="https://avatars.githubusercontent.com/YooSabbir" 
-        width="230" 
-        style="border-radius: 50%;" 
-        alt="Arafat Hossen Sabbir"
-      />
-    </td>
-    <td width="65%">
-      <h2>Hi 👋, I'm Arafat Hossen Sabbir</h2>
-      <p>
-        <b>Junior Front-End Developer</b> | HTML, CSS, JavaScript <br/>
-        Learning React | Building clean & responsive web interfaces
-      </p>
-    </td>
-  </tr>
-</table>
 
----
+<h1 align="center">Hey Everyone 👋, I'm Arafat Hossen Sabbir</h1>
 
-## 🚀 About Me
-I am a **front-end focused web developer** currently expanding my expertise into **full-stack (MERN) development**.
+<div align="center">
+  <img src="" alt="">
+</div>
 
-I build **clean, responsive, and user-centered web interfaces** using modern web technologies.  
-Rather than relying on copy-paste solutions, I focus on **understanding core concepts** like layout systems, responsiveness, and application logic — which helps me write **maintainable and scalable code**.
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
-I am actively learning and building projects to strengthen my skills and am **open to internships, junior roles, and collaborative opportunities**.
-
----
-
-## 💼 Current Work
-🔭 **Junior Front-End Developer (Self-Learning)**  
-📍 Programming Hero — *January 2026 – Present*
-
-- Building responsive web pages using **HTML, CSS, and JavaScript**
-- Practicing **DOM manipulation** and event handling
-- Converting UI ideas into functional layouts
-- Improving code quality, readability, and structure
-- Using **Git & GitHub** for version control
-
----
-
-## 📚 Learning & Knowledge
-🌱 Currently learning and practicing:
-- **React.js**
-- **Node.js & Express.js**
-- **MongoDB**
-- **REST APIs**
-
----
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|------------|------|----------|
-| Government Mujib College | Higher Secondary Education (Science) | 2023 – 2025 |
-| Chaprashir Hat High School | SSC (Science) | 2021 – 2023 |
-
----
-
-## 🛠️ Skills & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,react,nodejs,mongodb" />
+<p align="center">
+  <a href="https://github.com/jaiswaladi246">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@devopsshack">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal7">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
 
-**Core Skills**
-- HTML5 (Semantic Markup)
-- CSS3, Tailwind CSS, Flexbox, Grid
-- JavaScript (ES6+, DOM Manipulation)
-- Git & GitHub
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/yoosabbir](https://github.com/yoosabbir)  
+- 💬 Ask me about **Web dev**  
+- 📫 How to reach me **arafathossensabbirofficial@gmail.com**
 
 ---
 
-## 📊 GitHub Stats & Activity
-<p align="cener">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/arafat-hossen-sabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 📞 Contact & Location
-📫 **Email:** ahsabbir128@gmail.com  
-📍 **Location:** Dhaka, Bangladesh  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
 
-🌐 **Connect with me:**  
-[GitHub](https://github.com/YooSabbir) • 
-[LinkedIn](https://www.linkedin.com/in/arafat-hossen-sabbir)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
-### 🎯 Quote
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
-⭐ Thank you for visiting my profile! 😊
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations / YouTube Collabs**  
+💼 Offering **DevOps Consulting / Mentorship**  
+📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+
+> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
