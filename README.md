@@ -81,5 +81,7 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 </p>
 
 <div align="center">
+  
 > **"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
+
 </div>
