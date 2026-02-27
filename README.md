@@ -2,7 +2,13 @@
 <!-- ===================== INTRO + PHOTO ===================== -->
 
 <div align="center">
-  <img src="https://github.com/yoosabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%;" />
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github.com/yoosabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="center">Junior Front-End Developer | HTML, CSS, JavaScript <br> Learning React | Building Clean & Responsive Web Interfaces</h3>
@@ -67,28 +73,13 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" />
 </p>
 
+<h2 align="center">🔥 GitHub Contribution Streak:</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=yoosabbir&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
-
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+<div align="center">
+> **"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
+</div>
