@@ -78,11 +78,11 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 
 <h2 align="center">🔥 GitHub Contribution Streak:</h2>
 <p align="center">
-  <a align="right" href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats" width="48%" />
   </a>
-  <a align="left" href="https://git.io/streak-stats">
-    <img width=469 src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" width="48%" />
   </a>
 </p>
 
