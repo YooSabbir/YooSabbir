@@ -82,7 +82,7 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
   <a align="left" href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=469 src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </a>
 </p>
 
