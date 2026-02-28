@@ -77,15 +77,20 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 </p>
 
 <h2 align="center">🔥 GitHub Contribution Streak:</h2>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats" height="175" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height="175" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=yoosabbir&count_private=true&theme=react&border_radius=10" alt="streak stats" height="170" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=yoosabbir&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" height="170" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
