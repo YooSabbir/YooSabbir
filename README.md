@@ -93,7 +93,9 @@ I am a dedicated Full Stack Developer specializing in the MERN stack, with a pas
 </div>
 <br>
 <div align="center"> 
-  <a href="mailto:arafathossensabbirofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arafathossensabbirofficial@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
   <a href="https://linkedin.com/in/arafat-hossen-sabbir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
