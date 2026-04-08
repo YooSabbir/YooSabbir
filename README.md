@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Arafat%20Hossen%20Sabbir-blue?logo=linkedin&style=flat-square" />
   </a>
    <a href="https://linkedin.com/in/arafat-hossen-sabbir">
-    <img src="https://komarev.com/ghpvc/?username=arafat-hossen-sabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=yoosabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
