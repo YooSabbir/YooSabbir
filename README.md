@@ -88,7 +88,7 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
     </td>
   </tr>
 </table>
-
+ 
 <div align="center">
   
 > **"Helping people with my real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
