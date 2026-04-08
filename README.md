@@ -2,7 +2,7 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github.com/yoosabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%" />
+        <img src="https://github.com/arafat-hossen-sabbir.png" alt="Arafat Hossen Sabbir" width="250" height="250" style="border-radius: 50%" />
       </td>
     </tr>
   </table>
@@ -14,14 +14,14 @@
 <h3 align="center">Junior Front-End Developer | HTML, CSS, JavaScript <br> Learning React | Building Clean & Responsive Web Interfaces</h3>
 
 <p align="center">
-  <a href="https://github.com/yoosabbir">
-    <img src="https://img.shields.io/github/followers/yoosabbir?label=Follow&style=social" />
+  <a href="https://github.com/arafat-hossen-sabbir">
+    <img src="https://img.shields.io/github/followers/arafat-hossen-sabbir?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/arafat-hossen-sabbir">
     <img src="https://img.shields.io/badge/LinkedIn-Arafat%20Hossen%20Sabbir-blue?logo=linkedin&style=flat-square" />
   </a>
    <a href="https://linkedin.com/in/arafat-hossen-sabbir">
-    <img src="https://komarev.com/ghpvc/?username=yoosabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=arafat-hossen-sabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ I’m a Junior Web Developer passionate about building responsive, user-friendly
   <a href="https://linkedin.com/in/arafat-hossen-sabbir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/yoosabbir" target="_blank">
+  <a href="https://github.com/arafat-hossen-sabbir" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
